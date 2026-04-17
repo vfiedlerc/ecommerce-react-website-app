@@ -1,4 +1,4 @@
-[README.md.md](https://github.com/user-attachments/files/26836202/README.md.md)
+[README.md](https://github.com/user-attachments/files/26836202/README.md.md)
 # Ecommerce React Website
 
 > Full-featured frontend e-commerce application built with React, CSS, and Hooks.
